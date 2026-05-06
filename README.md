@@ -7,6 +7,7 @@
 ## Índice General
 
 ### [1. Introducción](./01-introduccion/)
+
 | Archivo | Descripción |
 |---------|-------------|
 | [01-que-es-sql.md](./01-introduccion/01-que-es-sql.md) | Qué es SQL, historia, estándares y motores de base de datos |
@@ -14,6 +15,7 @@
 | [03-configuracion-entorno.md](./01-introduccion/03-configuracion-entorno.md) | Instalación y configuración de MySQL, PostgreSQL, SQL Server |
 
 ### [2. Fundamentos de SQL](./02-fundamentos/)
+
 | Archivo | Descripción |
 |---------|-------------|
 | [01-select-basico.md](./02-fundamentos/01-select-basico.md) | SELECT, columnas, alias, DISTINCT, LIMIT |
@@ -26,6 +28,7 @@
 | [08-indices-y-optimizacion.md](./02-fundamentos/08-indices-y-optimizacion.md) | Índices, planes de ejecución, optimización básica |
 
 ### [3. Ventas](./03-ventas/)
+
 | Archivo | Descripción |
 |---------|-------------|
 | [01-modelo-datos-ventas.md](./03-ventas/01-modelo-datos-ventas.md) | Modelo relacional completo para un sistema de ventas |
@@ -34,6 +37,7 @@
 | [04-reportes-ventas.md](./03-ventas/04-reportes-ventas.md) | Reportes gerenciales, KPIs y dashboards |
 
 ### [4. Compras](./04-compras/)
+
 | Archivo | Descripción |
 |---------|-------------|
 | [01-modelo-datos-compras.md](./04-compras/01-modelo-datos-compras.md) | Modelo relacional completo para un sistema de compras |
@@ -41,6 +45,7 @@
 | [03-analisis-compras.md](./04-compras/03-analisis-compras.md) | Análisis de gastos, proveedores y eficiencia |
 
 ### [5. Inventarios](./05-inventarios/)
+
 | Archivo | Descripción |
 |---------|-------------|
 | [01-modelo-datos-inventarios.md](./05-inventarios/01-modelo-datos-inventarios.md) | Modelo relacional completo para gestión de inventarios |
@@ -49,6 +54,7 @@
 | [04-kardex-y-valorizacion.md](./05-inventarios/04-kardex-y-valorizacion.md) | Kardex valorizado, UEPS, PEPS, promedio ponderado |
 
 ### [6. SQL Avanzado](./06-sql-avanzado/)
+
 | Archivo | Descripción |
 |---------|-------------|
 | [01-window-functions.md](./06-sql-avanzado/01-window-functions.md) | ROW_NUMBER, RANK, LAG, LEAD, SUM OVER, particiones |
@@ -59,6 +65,7 @@
 | [06-performance-tuning.md](./06-sql-avanzado/06-performance-tuning.md) | EXPLAIN, query tuning, estadísticas, particionamiento |
 
 ### [7. SQL Injection](./07-sql-injection/)
+
 | Archivo | Descripción |
 |---------|-------------|
 | [01-que-es-sql-injection.md](./07-sql-injection/01-que-es-sql-injection.md) | Definición, historia, impacto en el negocio |
@@ -68,6 +75,7 @@
 | [05-ejemplos-practicos-ventas.md](./07-sql-injection/05-ejemplos-practicos-ventas.md) | Casos reales en sistemas de ventas, compras e inventarios |
 
 ### [8. Seguridad de Bases de Datos](./08-seguridad/)
+
 | Archivo | Descripción |
 |---------|-------------|
 | [01-hardening-bases-datos.md](./08-seguridad/01-hardening-bases-datos.md) | Endurecimiento, configuración segura, parches |
@@ -76,6 +84,7 @@
 | [04-backup-y-recovery.md](./08-seguridad/04-backup-y-recovery.md) | Estrategias de backup, point-in-time recovery, DRP |
 
 ### [9. Análisis de Datos con SQL](./09-analisis-datos/)
+
 | Archivo | Descripción |
 |---------|-------------|
 | [01-analisis-exploratorio.md](./09-analisis-datos/01-analisis-exploratorio.md) | EDA con SQL, perfiles de datos, detección de anomalías |
@@ -84,6 +93,7 @@
 | [04-dashboards-sql.md](./09-analisis-datos/04-dashboards-sql.md) | SQL para dashboards, métricas, KPI, visualización |
 
 ### [10. Apéndices](./10-apendices/)
+
 | Archivo | Descripción |
 |---------|-------------|
 | [01-glosario.md](./10-apendices/01-glosario.md) | Glosario completo de términos SQL y seguridad |
