@@ -2,7 +2,7 @@
 
 ## Introducción a CTE (Common Table Expressions)
 
-Un CTE es una tabla temporal con nombre que existe solo durante la ejecución de una consulta. Mejora la legibilidad y permite consultas recursivas.
+Un CTE es una tabla temporal con nombre que existe solo durante la ejecución de una consulta. Mejora la legibilidad y permite consultas [recursivas](https://ellibrodepython.com/recursividad).
 
 ### Sintaxis Básica
 ```sql
